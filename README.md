@@ -1,7 +1,7 @@
- HR Analytics Dashboard - Tableau Project
+# HR Analytics Dashboard - Tableau Project
 This HR Analytics Dashboard, built in Tableau, provides actionable insights into employee attrition, job satisfaction, and workforce demographics. The dashboard helps HR professionals and management teams make data-driven decisions to improve employee retention, engagement, and overall organizational performance.
 
- Project Overview
+# Project Overview
 This interactive Tableau dashboard visualizes key HR metrics to analyze:
 
 Employee attrition trends by department, gender, age group, and education.
@@ -9,7 +9,7 @@ Job satisfaction ratings across different job roles.
 Workforce demographics including age distribution and education fields.
 The goal is to identify areas of concern, improve employee engagement, and implement effective retention strategies.
 
- Key Insights & Features
+# Key Insights & Features
 Total Employees: 1,470
 Attrition Rate: 16.12%
 Active Employees: 1,233
